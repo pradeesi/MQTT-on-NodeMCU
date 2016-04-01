@@ -1,4 +1,12 @@
 ------------------------------------------
+--- Author: Pradeep Singh
+--- Date: 25th March 2016
+--- Version: 1.0
+--- NodeMCU Firmware: nodemcu_float_0.9.6-dev_20150704.bin
+--- Description: This is sample code to send and receive messages on MQTT
+------------------------------------------
+
+------------------------------------------
 --- Set Variables ---
 ------------------------------------------
 MQTT_BROKER = "iot.eclipse.org"
