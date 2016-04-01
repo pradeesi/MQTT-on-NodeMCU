@@ -3,7 +3,7 @@
 --- Date: 25th March 2016
 --- Version: 1.0
 --- NodeMCU Firmware: nodemcu_float_0.9.6-dev_20150704.bin
---- Description: This is sample code to send and receive messages on MQTT
+--- Description: This is sample code for sending and receiving messages on MQTT
 ------------------------------------------
 
 ------------------------------------------
